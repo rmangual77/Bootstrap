@@ -1,0 +1,25 @@
+.steak1,
+.steak2,
+.steak3 {
+  height: 400px;
+  width: 90%;
+  border: 5px solid #000;
+}
+
+.steak1 {
+  border: 5px solid orange;
+}
+
+.steak2 {
+  border: 5px solid blue;
+}
+
+.steak3 {
+  border: 5px solid green;
+}
+
+.carousel-item {
+  margin: 30px;
+}
+
+
